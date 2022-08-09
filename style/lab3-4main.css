@@ -1,0 +1,11 @@
+table, tr,td{
+    border: 1px solid black;
+}
+
+.AB-bg:hover{
+    background-color:  turquoise;
+}
+
+.C:hover{
+    background-color: rgb(224, 64, 64);
+}
